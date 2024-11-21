@@ -62,26 +62,7 @@ body {
     opacity: 0;
     animation: fadeIn 1s ease-out 0.7s forwards;
   }
-  
-  /* Location button styling */
-  .location-button { 
-    margin-top: 20px;
-    padding: 10px 20px;
-    background-image: linear-gradient(45deg, #00c6ff, #0072ff);  /* Ocean Breeze gradient */
-    color: white;
-    border: none;
-    border-radius: 5px;
-    cursor: pointer;
-    font-size: 16px;
-    opacity: 0;
-    animation: fadeIn 1s ease-out 1s forwards;
-}
-
-.location-button:hover {
-    background-image: linear-gradient(45deg, #0072ff, #00c6ff);  /* Reversed gradient for hover effect */
-}
-
-  
+    
   /* Weather icon styling */
   .weather-icon {
     width: 150px;
