@@ -110,7 +110,7 @@ const Weather = () => {
 
   useEffect(() => {
     // Default search by city when the app loads
-    searchByCity("Chittaranjan");
+    searchByCity("Kolkata");
   }, []);
 
   return (
